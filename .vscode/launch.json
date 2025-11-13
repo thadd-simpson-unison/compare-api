@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "go",
+            "name": "Launch file",
+            "request": "launch",
+            "mode": "debug",
+            "program": "./main.go"
+        }
+    ]
+}
